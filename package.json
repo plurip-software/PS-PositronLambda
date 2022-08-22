@@ -1,0 +1,14 @@
+{
+  "name": "positronlambda",
+  "version": "0.1.0",
+  "description": "App for desktop app development in PureScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "plurip",
+  "license": "ISC",
+  "devDependencies": {
+    "uglify-js": "^3.17.0"
+  }
+}
